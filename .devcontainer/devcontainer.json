@@ -1,0 +1,11 @@
+{
+  "name": "Common Lisp Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [
+    "alanz.vscode-lisp"
+  ],
+  "remoteUser": "vscode"
+}
